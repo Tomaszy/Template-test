@@ -1,0 +1,9 @@
+html{
+     box-sizing: border-box; /* rozciąga strone bez zw rozmiaru strony */
+}
+
+body{
+    margin: 0;
+     min-height: 100vh; /*full hight of entire window - rozciąga tło na cały ekran nawet gdy zawartość nie wyst na strone np. tło 50% rozciąga na 100 % strony*/
+
+    }
